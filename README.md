@@ -14,6 +14,10 @@
 
 ---
 
+# MANDATORY SCREENSHOT
+
+![Beautiful Screenshot](https://raw.githubusercontent.com/godbout/alfred-ploi/master/resources/screenshots/refresh-OPcache.gif "Beautiful Screenshot")
+
 # Disturbingly Current Features
 
 this is currently so basic that i should feel ashamed to release that shit but i don't. i'm known in the streets as the guy who builds the bare minimum because he's such a lazy bastard and also because he has something else to do like stomping on rocks or drinking mouthfuls of salty water but also because maybe tomorrow he's not gonna be alive who knows so no rush. anyways, here you go:
